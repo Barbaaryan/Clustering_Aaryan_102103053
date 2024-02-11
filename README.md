@@ -37,4 +37,4 @@ Performance using different clustering techniques on various paraemeters
 
 ## Conclusion
 
-For the Seeds dataset, K-Mean Clustering with Yeo-Johnson Transformation has the best Silhouette score.
+For the Seeds dataset, K-Means Clustering with Yeo-Johnson Transformation has the best Silhouette score.
